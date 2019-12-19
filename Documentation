@@ -1,4 +1,5 @@
-Had an issue with the getting better speed even with the new gigabit ethernet netwok card.
+Had an issue with the getting better speed even with the new gigabit ethernet netwok card.(That's because i you need to use a gigabit
+router to get gigabit speeds silly!)
 
 The Solution:
 I uninstalled and re-installed the lan cable for the laptop plugin, will check and see how the speed is...
@@ -14,3 +15,6 @@ Just about to check file transfer speed for
   Gigabit Ethernet Card ---> Laptop Ethernet
 ...
 Sadly i got a max speed of 710 KB/s 😢
+
+19/12/2019
+Well now at this point in time i have tried almost everyway that i can to build a FreeNas server but that will not stop me from learning
